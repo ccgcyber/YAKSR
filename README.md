@@ -1,4 +1,5 @@
-# Yet Another Kali Linux Scripts Repo:
+# TheCollective (formerly 'Yet Another Kali Linux Scripts Repo' or YAKSR) :
+![YAKSR](https://user-images.githubusercontent.com/6934294/46578116-da19ee80-c9bb-11e8-9978-69c6f2561ddc.jpg)
 
 --------------------------------------------------------------------------------
      This repo contains mostly a collection pointers to scripts,apps,repos, and/or programs that I have found useful during my time on Red Team Ops. 
@@ -8,9 +9,6 @@
      AV vendors when you find this dont just use this to find malware and hash it. You should use this to create a better protection product...
      Actually we all should try to create detections for these and their variations as well as for everything they do ;D
 --------------------------------------------------------------------------------
-
-# ANNOUNCEMENT
-- DUE TO MICROSOFT PURCHASE MAY MOVE TO BITBUCKET
 
 # Contrib:
 
@@ -34,7 +32,7 @@
 
 --------------------------------------------------------------------
      For the die hard Blue Teamers here. I know its hard, belive me I do. And Repos like this make life seem harder...well unless you use this Repo to your advantage.
-     Also to help ive created "Yet Another Blue Team Repo" (YABTR) for the Blue team to help fight/find Red/YAKSR. And now SWELF to help with logging.
+     Also to help ive created "Yet Another Blue Team Repo" (YABTR) for the Blue team to help fight/find Red/TheCollective. And now SWELF to help with logging.
 --------------------------------------------------------------------
 
 # "Support":

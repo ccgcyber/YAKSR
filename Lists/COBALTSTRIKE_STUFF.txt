@@ -18,3 +18,10 @@ git clone https://github.com/tevora-threat/aggressor-powerview
 git clone https://github.com/RhinoSecurityLabs/Aggressor-Scripts
 git clone https://github.com/vysec/Aggressor-VYSEC
 git clone https://github.com/invokethreatguy/CSASC
+git clone https://github.com/001SPARTaN/aggressor_scripts
+git clone https://github.com/xx0hcd/Malleable-C2-Profiles
+git clone https://github.com/threatexpress/cs2modrewrite
+git clone https://github.com/tevora-threat/PowerView3-Aggressor
+git clone https://github.com/ars3n11/Aggressor-Scripts
+git clone https://github.com/secgroundzero/CS-Aggressor-Scripts
+git clone https://github.com/SpiderLabs/SharpCompile
