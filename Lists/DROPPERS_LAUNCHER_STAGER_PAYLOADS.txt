@@ -41,3 +41,7 @@ git clone https://github.com/trustedsec/unicorn
 git clone https://github.com/Tyilo/insert_dylib
 git clone https://github.com/deepzec/Bad-Pdf
 git clone https://github.com/GreatSCT/GreatSCT
+git clone https://github.com/Mr-Un1k0d3r/MaliciousDLLGenerator
+git clone https://github.com/lesnuages/hershell
+git clone https://github.com/rasta-mouse/TikiTorch
+git clone https://github.com/christophetd/spoofing-office-macro
