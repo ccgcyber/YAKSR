@@ -1,7 +1,5 @@
-git clone https://github.com/t3ntman/CrunchRAT
 git clone https://github.com/ahhh/Reverse_HTTPS_Bot
 git clone https://github.com/Cn33liz/JSMeter
-git clone https://github.com/subTee/PoshRat
 git clone https://github.com/Screetsec/TheFatRat
 git clone https://github.com/Hood3dRob1n/JSRat-Py
 git clone https://github.com/ChrisTruncer/WMImplant
@@ -29,6 +27,9 @@ git clone https://github.com/xtr4nge/FruityC2
 git clone https://github.com/Mr-Un1k0d3r/ThunderShell
 git clone https://github.com/stamparm/EternalRocks
 git clone https://github.com/aspiggy/JSRAT
-git clone https://github.com/micle-fm/Parat
 git clone https://github.com/islamTaha12/Python-Rootkit
 git clone https://github.com/mthbernardes/GTRS
+git clone https://github.com/malwaredllc/byob
+git clone https://github.com/fadinglr/Parat
+git clone https://github.com/erikbarzdukas/CrunchRAT
+git clone https://github.com/thelinuxchoice/pyRAT

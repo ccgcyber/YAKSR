@@ -1,4 +1,5 @@
 git clone https://github.com/johnnyDEP/cobaltstrike
+git clone https://github.com/Coalfire-Research/Vampire
 git clone https://github.com/harleyQu1nn/AggressorScripts
 git clone https://github.com/killswitch-GUI/CobaltStrike-ToolKit
 git clone https://github.com/vysec/ANGRYPUPPY
@@ -32,3 +33,5 @@ git clone https://github.com/codewhitesec/LethalHTA
 git clone https://github.com/offsecginger/AggressorScripts
 git clone https://github.com/darkoperator/vscode-language-aggressor
 git clone https://github.com/rvrsh3ll/CPLResourceRunner
+git clone https://github.com/outflanknl/Excel4-DCOM
+git clone https://github.com/threatexpress/aggressor-scripts

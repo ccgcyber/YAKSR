@@ -1,14 +1,14 @@
 #!/bin/bash
 echo " ">/etc/apt/sources.list
-echo "#KALI 2.0 Repos">>/etc/apt/sources.list
-echo "#deb http://http.kali.org/kali sana main non-free contrib">>/etc/apt/sources.list
-echo "#deb http://security.kali.org/kali-security sana/updates main contrib non-free">>/etc/apt/sources.list
-echo "#deb-src http://http.kali.org/kali sana main non-free contrib">>/etc/apt/sources.list
-echo "#deb-src http://security.kali.org/kali-security sana/updates main contrib non-free">>/etc/apt/sources.list
-echo "#Kali 2016 Rolling Repos">>/etc/apt/sources.list
-echo "deb http://http.kali.org/kali kali-rolling main contrib non-free">>/etc/apt/sources.list
-echo "deb-src http://http.kali.org/kali kali-rolling main contrib non-free">>/etc/apt/sources.list
-wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
+#echo "#KALI 2.0 Repos">>/etc/apt/sources.list
+#echo "#deb http://http.kali.org/kali sana main non-free contrib">>/etc/apt/sources.list
+#echo "#deb http://security.kali.org/kali-security sana/updates main contrib non-free">>/etc/apt/sources.list
+#echo "#deb-src http://http.kali.org/kali sana main non-free contrib">>/etc/apt/sources.list
+#echo "#deb-src http://security.kali.org/kali-security sana/updates main contrib non-free">>/etc/apt/sources.list
+#echo "#Kali 2016 Rolling Repos">>/etc/apt/sources.list
+#echo "deb http://http.kali.org/kali kali-rolling main contrib non-free">>/etc/apt/sources.list
+#echo "deb-src http://http.kali.org/kali kali-rolling main contrib non-free">>/etc/apt/sources.list
+#wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
 apt update && apt full-upgrade
 dpkg --configure -a
 update-rc.d postgresql enable && update-rc.d metasploit enable && msfdb init
@@ -85,6 +85,8 @@ apt-get install -y  shellter
 apt-get install -y  jboss-autopwn  
 apt-get install -y  wifite  
 apt-get install -y  fruitywifi 
+apt-get install -y tesseract-ocr
+apt-get install -y libtesseract-dev
 apt autoremove -y
 apt-get clean
 chmod +777 GetClones.py

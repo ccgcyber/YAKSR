@@ -22,3 +22,9 @@ git clone https://github.com/JLospinoso/gargoyle
 git clone https://github.com/stephenfewer/ReflectiveDLLInjection
 git clone https://github.com/bytecode77/self-morphing-csharp-binary
 git clone https://github.com/oddcod3/Phantom-Evasion
+git clone https://github.com/paranoidninja/CarbonCopy
+git clone https://github.com/Hackplayers/Salsa-tools
+git clone https://github.com/Fmk0/scripts
+git clone https://github.com/matterpreter/DefenderCheck
+git clone https://github.com/netbiosX/Digital-Signature-Hijack
+git clone https://github.com/Illuminopi/RCEvil.NET
